@@ -8,7 +8,7 @@
 ## Assignment 4
 ![Assignment-Blipper](screenshot/ss_4.png)
 ## Assignment 3
-![Assignment-Blipper](screenshots/ss8.png)
+![Assignment-Blipper](screenshot/ss8.png)
 ## Assignment 8
 ![Assignment-Blipper](screenshot/ss2_8.png)
 
